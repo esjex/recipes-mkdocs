@@ -1,4 +1,4 @@
-# Meat
+# Meat recipes
 
 ## Salmon and broccoli traybake
 

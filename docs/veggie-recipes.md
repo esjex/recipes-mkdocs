@@ -1,4 +1,4 @@
-# Veggie
+# Veggie recipes
 
 ## Courgette, tomato and ricotta bake
 Recipe: [Nigel Slater - Courgette, tomato and ricotta bake](https://amp.theguardian.com/lifeandstyle/2009/aug/16/nigel-slater-courgette) 
