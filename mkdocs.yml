@@ -1,0 +1,14 @@
+site_name: Low Effort, High Reward Cooking
+
+theme:
+  name: material
+
+nav:
+- index.md
+- Recipes:
+  - meat-recipes.md
+  - veggie-recipes.md
+  - lazy-bowls.md
+  - perfect-roast-potatoes.md
+  - extra-effort-meals.md
+- about.md
